@@ -1,6 +1,7 @@
 {
     "id": "$root$$url$",
     "url": "$root$$url$",
+    "title": "$title$",
     "content_html": $descriptionJson$,
     "date_published": "$published$",
     "date_modified": "$updated$"
